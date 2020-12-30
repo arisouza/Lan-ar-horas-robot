@@ -2,8 +2,8 @@
 
 ### LOGIN
 
-${EMAIL}            ariane.souza@primecontrol.com.br
-${SENHA}            Foz45336
+${EMAIL}            email
+${SENHA}            senha
 
 ### Formulário 
 
